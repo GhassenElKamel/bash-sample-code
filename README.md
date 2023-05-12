@@ -18,8 +18,8 @@ To use this script, follow the instructions below:
 
 To run the script, use the following commands:
 
-1- chmod +x projet.sh
-2- ./projet.sh
+1- chmod +x projet.sh <br>
+2- ./projet.sh <br>
 
 
 Once the script is running, you will be presented with a menu of available options. Choose the desired option by entering the corresponding number or letter.
